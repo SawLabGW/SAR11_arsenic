@@ -1,3 +1,3 @@
 # SAR11 arsenic
 
-A script used to geneate a figure in Giovannoni *et al* mBio paper in 2019. 
+A script used to geneate a figure in Giovannoni *et al* mBio paper in 2019 [@PMID:30890605]. 
